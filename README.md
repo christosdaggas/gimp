@@ -16,15 +16,15 @@ A sleek, modern dark theme for **GIMP**, inspired by the popular [Dracula color 
 ## 📦 Installation
 1. **Download** or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gimp-dracula-theme.git
+   git clone https://github.com/christosdaggas/gimp-dracula-theme.git
    ```
 2. **Find your GIMP themes folder:**
    - **Windows**:  
-     `C:\Users\<yourname>\AppData\Roaming\GIMP\2.10\themes\`
+     `C:\Users\<yourname>\AppData\Roaming\GIMP\3\themes\Dracula\`
    - **Linux**:  
-     `~/.config/GIMP/2.10/themes/`
+     `~/.config/GIMP/2.10/themes/Dracula/`
    - **macOS**:  
-     `~/Library/Application Support/GIMP/2.10/themes/`
+     `~/Library/Application Support/GIMP/2.10/themes/Dracula/`
 3. **Copy** the theme folder (e.g., `Dracula-GIMP`) into the `themes/` directory.
 4. Open GIMP → `Edit` → `Preferences` → `Interface` → `Theme` → Select `Dracula`.
 5. ✅ Restart GIMP and enjoy the new look!
@@ -32,7 +32,7 @@ A sleek, modern dark theme for **GIMP**, inspired by the popular [Dracula color 
 ---
 ## 🛠 Customization
 You can personalize it further:
-- Edit `gtk.css` inside the theme folder to change colors, spacing, fonts.
+- Edit `gimp.css` inside the theme folder to change colors, spacing, fonts.
 - Update assets to match your UI preferences or high-DPI displays.
 
 ---
