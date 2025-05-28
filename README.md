@@ -50,7 +50,7 @@ Just remember to keep the original license notice intact.
 ## 🙌 Credits
 - Inspired by [Dracula Theme](https://draculatheme.com)  
 - Built for [GIMP](https://www.gimp.org)  
-- Created by **[Your Name]**
+- Created by Christos A. Daggas
 
 ---
 > 🐞 Found a bug? Have a suggestion? Open an [Issue](https://github.com/yourusername/gimp-dracula-theme/issues) or submit a Pull Request!
