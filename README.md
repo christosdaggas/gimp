@@ -2,6 +2,7 @@
 
 A sleek, modern dark theme for **GIMP**, inspired by the popular [Dracula color palette](https://draculatheme.com). Designed for designers, developers, and night owls who crave a consistent dark UI across tools.
 
+![Gimp-Dracula](https://github.com/user-attachments/assets/7eb946f8-27af-4965-a214-60e73a9e6ddb)
 
 ---
 ## ✨ Features
